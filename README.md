@@ -47,4 +47,6 @@ This repository contains certificates of completion and proof of test pass resul
 
 | Provider | ECourse | Date Completed | Certificate |
 | :-:|:-:|:-:|:-:|
-| Society of Actuaries (SOA) | Exam
+| LinkedIn Learning | ... | ... | ... |
+
+`# {{TODO}}`
