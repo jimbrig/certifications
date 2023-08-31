@@ -1,6 +1,6 @@
 # Certifications
 
-> [!NOTE] Online Learning Certificates
+> Certifications and Transcripts from my past endeavors.
 
 This repository contains certificates of completion and proof of test pass results for various learning providers.
 
