@@ -7,6 +7,14 @@
 This repository contains certificates of completion and proof of test pass results for various learning providers.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Actuarial Exams](#actuarial-exams)
+  - [Transcripts](#transcripts)
+  - [Individual Exam Pass Slips](#individual-exam-pass-slips)
+- [University of Georgia (UGA)](#university-of-georgia-uga)
+- [Online Courses](#online-courses)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
