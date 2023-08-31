@@ -1,0 +1,13 @@
+name: TOC Generator
+
+on:
+  workflow_dispatch:
+  push:
+  pull_request:
+
+jobs:
+  GenerateTOC:
+    name: TOC Generator
+    runs-on: ubuntu-latest
+    steps:
+      - uses: technote-space/toc-generator@v4
