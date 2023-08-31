@@ -1,5 +1,7 @@
 # Certifications
 
+[![Changelog](https://github.com/jimbrig/certifications/actions/workflows/changelog.yml/badge.svg)](https://github.com/jimbrig/certifications/actions/workflows/changelog.yml)
+
 > Certifications and Transcripts from my past endeavors.
 
 This repository contains certificates of completion and proof of test pass results for various learning providers.
